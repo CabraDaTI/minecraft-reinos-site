@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+              'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -53,21 +53,39 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'dados',
+        path: 'dados',
+        routeBasePath: 'dados',
+        sidebarPath: require.resolve('./sidebarsDados.js'),
+        // ... other options
+      },
+    ],
+  ],
+
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      navbar: {
-        title: 'Minecraft Reinos',
-        logo: {
-          alt: 'Minecraft Reinos',
-          src: 'img/icon.png',
-        },
+  /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+      ({
+        navbar: {
+          title: 'Minecraft Reinos',
+          logo: {
+            alt: 'Minecraft Reinos',
+            src: 'img/icon.png',
+          },
         items: [
           {
             type: 'doc',
             docId: 'sobre-o-servidor',
             position: 'left',
             label: 'Como Funciona',
+          },
+          {
+            to: '/dados/players',
+            label: 'Dados',
+            position: 'left'
           },
           {
             to: '/blog',

@@ -15,7 +15,7 @@ Critérios que devem ser cumpridos:
 - Sua base deve ser ampla, deve haver muitas decorações e jardins.
 - Deve ser construído a base de pedras e elementos naturais: plantas, vinhas e etc.
 
-Premiação extra:
+Premiação:
 
 - Um poder para cada integrante do reino
 - 100 Netherites

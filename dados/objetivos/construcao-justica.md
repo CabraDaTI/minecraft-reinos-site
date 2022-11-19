@@ -16,7 +16,7 @@ Critérios que devem ser cumpridos:
 - Deve ser construido com matériais lapidados e com tonalidade clara, mais proximos do branco. Sua
   decoração deve ser simples, minimalista e bem trabalhada.
 
-Premiação extra:
+Premiação:
 
 - Um poder para cada integrante do reino
 - 100 Netherites

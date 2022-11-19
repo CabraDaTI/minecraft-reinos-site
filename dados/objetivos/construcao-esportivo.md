@@ -20,7 +20,7 @@ Critérios que devem ser cumpridos:
   reaproveitado.
 - O rinque de luta deve ser grande o suficiente para lutas com poderes.
 
-Premiação extra:
+Premiação:
 
 - Um poder para cada integrante do reino
 - 100 Netherites

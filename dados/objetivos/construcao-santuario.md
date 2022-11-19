@@ -15,7 +15,7 @@ Critérios que devem ser cumpridos:
 - Um grande reserva deve ser feita utilizando o mar.
 - Deve haver mais de 15 tartarugas, um casal pode ser cedido pelo administrador.
 
-Premiação extra:
+Premiação:
 
 - Um poder para cada integrante do reino
 - 100 Netherites

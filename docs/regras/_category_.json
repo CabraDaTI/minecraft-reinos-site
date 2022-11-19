@@ -1,0 +1,8 @@
+{
+  "label": "Regras",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "como as coisas funcionam no servidor"
+  }
+}

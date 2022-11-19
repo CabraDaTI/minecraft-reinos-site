@@ -38,3 +38,5 @@ O que virá depois será recompensador!
 Alguns sistemas novos durante as batalhas: nocaute, derrubar inimigo de montarias com um golpe, etc.
 
 ### Gerenciador de reinos (Em desenvolvimento)
+
+ferramenta para auxiliar o gerenciamento e interação dos reinos

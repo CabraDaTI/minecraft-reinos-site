@@ -12,3 +12,9 @@ porém grande parte das regras vem da ética de cada jogador. Seja respeitoso, m
 ```bash
 1.1.1.1
 ```
+
+## Discord
+
+```bash
+https://discord.gg/2ZDU2w3M
+```

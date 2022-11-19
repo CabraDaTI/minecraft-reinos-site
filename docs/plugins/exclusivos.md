@@ -33,7 +33,7 @@ em epocas sombrias.
 Um carneiro pode surgir, acima do solo, voando nas nuvens, brilhante, mate-o o mais rapido possível!
 O que virá depois será recompensador!
 
-### Batalha Melhorada - As batalhas serão mais emocionantes
+### Batalha Melhorada - As batalhas serão mais emocionantes (Em desenvolvimento)
 
 Alguns sistemas novos durante as batalhas: nocaute, derrubar inimigo de montarias com um golpe, etc.
 

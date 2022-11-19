@@ -35,3 +35,9 @@ Construa pilares ou torres no meio da agua
 
 Qualquer terra subterranea que aparenta ser habitada e possua construções complexas é considerada
 uma região dominada.
+
+## Direitos ganhos
+
+Alguns direitos são ganhos quando você declara terras:
+
+- pode gerenciar da sua forma, implementando suas proprias leis

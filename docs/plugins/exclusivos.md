@@ -23,7 +23,7 @@ Breeding Season vai criar uma emergencia gigantesca pela comida e animais. Com e
 ganha um sistema de estações, quando chega o tempo de seca, nem plantações geram colheita, nem animais
 geram recursos, nada, pura e absoluta seca.
 
-### Lula Update - Lulas agoram são valiosas (Em desenvolvimento)
+### Lula Update - Lulas agoram são valiosas
 
 Lula Update torna a lula um ser incrivel, caçe uma e veja que talvez ela seja uma boa fonte de recursos
 em epocas sombrias.

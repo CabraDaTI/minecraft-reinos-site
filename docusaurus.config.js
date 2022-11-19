@@ -6,13 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Minecraft Reinos',
+  tagline: 'Minecraft Reinos',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/icon.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -57,27 +57,26 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Minecraft Reinos',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Minecraft Reinos',
+          src: 'img/icon.png',
         },
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'sobre-o-servidor',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Como Funciona',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
+            to: '/blog',
+            label: 'Atualizações',
+            position: 'left'
           },
         ],
       },
-      footer: {
+      /*footer: {
         style: 'dark',
         links: [
           {
@@ -121,7 +120,7 @@ const config = {
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-      },
+      }*/
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,

@@ -12,7 +12,7 @@ Ao declarar terras, outros reinos não podem gerenciar-las.
 Há alguns critérios e ideias que devem serem compreendidos:
 
 - Estrutura visível, mostrando que alguém possui aquele local (muros ou bandeiras)
-- Não uma divisão exata, não há uma linha que mostre que a partir daquele local é de alguém.
+- Não há uma divisão exata, não há uma linha que mostre que a partir daquele local é de alguém.
   Desde que a estrutura se mostre visível, toda a terra dentro e em volta (seja 10 ou 100 blocos de distancia) é
   pertecente aquele
   quem a declarou.

@@ -18,4 +18,4 @@ Regras que devem ser seguidas
 #### Construções
 
 - Não contamine o mapa, fazer pilares só para passar de um penhasco não é legal
-- Não construa sistemas complexos de redstone, eles serão destruidos
+- Não construa sistemas complexos de redstone, eles serão destruidos (ex: plantações automaticas)

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # O que fazer no começo?
@@ -12,4 +12,4 @@ Aqui damos algumas ideias do que fazer logo no inicio e possibilidades que poder
 - Busque dominar um recurso, isso te dará exclusividade e permitirá que construa um mercado solido. Veja
   sobre "Declaração de exclusividade".
 - Recrute mais pessoas para seu reino.
-- Busque adquirir seus poderes, há muitos objetivos para cumprir.
+- Busque adquirir seus poderes, há muitos objetivos para cumprir. Verifique em "Dados"

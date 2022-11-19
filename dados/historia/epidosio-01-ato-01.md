@@ -11,3 +11,10 @@ Mas os homens chegaram a esta terra. De forma pacata, como quem em alguns instan
 a era das cavernas de lado. São fazendeiros, antigos guerreiros e pessoas simples.
 
 Nesta terra eles irão se estabelecer!
+
+### Objetivo do Ato
+
+Este é o requisito que fará a história avançar para o proximo passo:
+
+- Primeiros reinos formados
+- Estruturas medianas construídas

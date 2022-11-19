@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # Declarar guerra
 
-Guerras são um processo complicado, mas quem é que não gosta de ver o circo pegar fogo?
+Guerras são processos complicados, mas quem é que não gosta de ver o circo pegar fogo?
 Leia bem esse post, é muito importante.
 
 ## Como declarar

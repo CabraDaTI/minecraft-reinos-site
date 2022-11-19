@@ -17,7 +17,7 @@ saque e é legal demais.
 ArrowHitKill é um plugin para tornar as coisas mais interessantes, atire um flecha, se a distancia
 for maior que X (consulte o administrador para saber a distancia) a entidade é morta instantaneamente!
 
-### Breeding Season - Epocas de seca (Em desenvolvimento)
+### Breeding Season - Epocas de seca
 
 Breeding Season vai criar uma emergencia gigantesca pela comida e animais. Com esse plugin o servidor
 ganha um sistema de estações, quando chega o tempo de seca, nem plantações geram colheita, nem animais
@@ -32,5 +32,9 @@ em epocas sombrias.
 
 Um carneiro pode surgir, acima do solo, voando nas nuvens, brilhante, mate-o o mais rapido possível!
 O que virá depois será recompensador!
+
+### Batalha Melhorada - As batalhas serão mais emocionantes
+
+Alguns sistemas novos durante as batalhas: nocaute, derrubar inimigo de montarias com um golpe, etc.
 
 ### Gerenciador de reinos

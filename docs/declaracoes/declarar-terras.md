@@ -7,6 +7,8 @@ sidebar_position: 1
 O processo de declarar terras é muito simples, basta criar ou aproveitar algum recurso
 que possa simbolizar uma divisão ou demonstrar presença.
 
+Ao declarar terras, outros reinos não podem gerenciar-las.
+
 Há alguns critérios e ideias que devem serem compreendidos:
 
 - Estrutura visível, mostrando que alguém possui aquele local (muros ou bandeiras)

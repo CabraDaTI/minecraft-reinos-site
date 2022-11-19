@@ -32,3 +32,5 @@ em epocas sombrias.
 
 Um carneiro pode surgir, acima do solo, voando nas nuvens, brilhante, mate-o o mais rapido possível!
 O que virá depois será recompensador!
+
+### Gerenciador de reinos

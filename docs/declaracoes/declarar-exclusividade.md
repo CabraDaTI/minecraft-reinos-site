@@ -23,7 +23,8 @@ SERÃO APLICADAS**.
 
 ## Como declarar
 
-Para declarar exclusividade, entre em contato com o administrador, um post será criado dentro
+Para declarar exclusividade, entre em contato com o administrador e seu caso será investigado, um post será criado
+dentro
 do site para mostrar que você possui aquela exclusividade.
 
 ## Ferir a exclusividade de um reino

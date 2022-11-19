@@ -11,7 +11,9 @@ Regras que devem ser seguidas
 - Não é permitido ataques aleatorios, apenas com motivos, mesmo que esse motivo seja pq
   o outro matou a vaca que você já estava de olho.
 
-- Saques não são permitidos em áreas dominadas.
+- Saques e destruição não são permitidos em áreas dominadas. Não há divisão exata que defina
+  que as terras são de um reino, se ver uma estrutura mostrando que ali há alguém, tome cuidado!
+  Verifique o post "declaração de terras" para entender melhor.
 
 #### Construções
 

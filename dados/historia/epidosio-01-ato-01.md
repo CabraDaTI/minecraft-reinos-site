@@ -18,3 +18,5 @@ Este é o requisito que fará a história avançar para o proximo passo:
 
 - Primeiros reinos formados (bases e fazendas construidas)
 - Primeira exclusividade for declarada
+
+Obs: O primeiro que ganhar exclusividade, receberá premiação extra

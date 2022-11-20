@@ -16,5 +16,5 @@ Nesta terra eles irão se estabelecer!
 
 Este é o requisito que fará a história avançar para o proximo passo:
 
-- Primeiros reinos formados
-- Estruturas medianas construídas
+- Primeiros reinos formados (bases e fazendas construidas)
+- Primeira exclusividade for declarada

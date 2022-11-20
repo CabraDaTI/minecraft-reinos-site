@@ -37,6 +37,10 @@ O que virá depois será recompensador!
 
 Alguns sistemas novos durante as batalhas: nocaute, derrubar inimigo de montarias com um golpe, etc.
 
+### Animais Melhorados - mobs receberam um update (Em desenvolvimento)
+
+### Monstros Melhorados - monstros receberam um update (Em desenvolvimento)
+
 ### Gerenciador de reinos (Em desenvolvimento)
 
 ferramenta para auxiliar o gerenciamento e interação dos reinos

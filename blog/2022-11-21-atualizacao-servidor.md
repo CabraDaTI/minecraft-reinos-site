@@ -8,3 +8,4 @@ Correções realizadas:
 
 - Aumento de cpu cores: 2 -> 4
 - Atualização de parametros do servidor
+- Mudança de executavel: Paper Spigot -> Purpur PufferFish

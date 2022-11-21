@@ -16,7 +16,7 @@ Novos plugins vão chegar e eles vão adicionar algumas coisas, sendo elas:
   mais fortes e preferem levar seres humanos no lugar de blocos, está pronto para ser raptado?
 
 
-- **Torre de Ossos** - 5 esqueletos empilhados um em cima do outro e embaixo uma aranha, vai ser
+- **Torre de Ossos** - 5 esqueletos empilhados um encima do outro e embaixo uma aranha, vai ser
   dificil escapar e desviar das flechas.
 
 

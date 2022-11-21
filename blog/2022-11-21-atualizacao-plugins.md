@@ -20,7 +20,7 @@ Novos plugins vão chegar e eles vão adicionar algumas coisas, sendo elas:
   dificil escapar e desviar das flechas.
 
 
-- **Anjo Caido** - Antigos guerreiros que agora são zumbis, no seu coração há um diamanete.
+- **Anjo Caido** - Antigos guerreiros que agora são zumbis, no seu coração há um diamante.
 
 #### Melhorias de batalhas
 

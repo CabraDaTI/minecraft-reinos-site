@@ -11,7 +11,7 @@ Para entender o contexto do servidor consulte "dados -> historia".
 ## IP
 
 ```bash
-1.1.1.1
+35.199.65.68:25565
 ```
 
 ## Discord

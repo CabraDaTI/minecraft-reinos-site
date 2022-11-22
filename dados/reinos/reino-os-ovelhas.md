@@ -6,10 +6,27 @@ sidebar_position: 2
 
 #### Integrantes
 
-- **Rian** (rianfenix) - Lider
+- **Erick** (ericklemos) - Lider
+- Rian (rianfenix)
 - Micael (danti2)
-- Erick (ericklemos)
 
-#### Leis da suas terras:
+#### Leis:
 
 - Aproximar das terras é considerado crime, apenas deve se aproximar quando for convidado.
+- Qualquer negociação acorrerá nas terras alheias, não permitidos nada em nossas terras.
+
+#### Exclusividades:
+
+- Nenhuma
+
+#### Objetivos:
+
+- Nenhum
+
+#### Alianças:
+
+- Nenhuma
+
+#### Guerras:
+
+- Nenhuma

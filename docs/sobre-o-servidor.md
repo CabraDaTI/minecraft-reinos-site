@@ -8,12 +8,6 @@ Nosso servidor é uma fantasia para esquecermos do mundo que nos cerca, uma fant
 ser reis, tiranos ou barbaros. Seja bem-vindo e seja respeitoso, seja uma boa pessoa mesmo quando
 estiver em guerra.
 
-## IP
-
-```bash
-35.199.65.68:25565
-```
-
 ## Discord
 
 ```bash

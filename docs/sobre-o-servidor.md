@@ -4,9 +4,9 @@ sidebar_position: 1
 
 # Sobre o servidor
 
-Nosso servidor se trata de um Roleplay, ou seja, há sistemas que são gerenciados por plugins,
-porém grande parte das regras vem da ética de cada jogador. Seja respeitoso, mesmo no caos!
-Para entender o contexto do servidor consulte "dados -> historia".
+Nosso servidor é uma fantasia para esquecermos do mundo que nos cerca, uma fantasia onde podemos
+ser reis, tiranos ou barbaros. Seja bem-vindo e seja respeitoso, seja uma boa pessoa mesmo quando
+estiver em guerra.
 
 ## IP
 

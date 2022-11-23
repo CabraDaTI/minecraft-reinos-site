@@ -79,7 +79,7 @@ const config = {
             label: 'Como Funciona',
           },
           {
-            to: '/dados/players',
+            to: '/dados/historia/epidosio-01-ato-01',
             label: 'Dados',
             position: 'left'
           },

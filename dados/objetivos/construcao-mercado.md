@@ -20,6 +20,7 @@ Critérios que devem ser cumpridos:
 
 Premiação:
 
+- Deve ser proximo ao Spawn Mundial
 - Um poder para cada integrante do reino
 - 100 Netherites
 - 1 Fungo do nether

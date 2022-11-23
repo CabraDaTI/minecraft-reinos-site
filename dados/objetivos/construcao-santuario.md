@@ -17,6 +17,7 @@ Critérios que devem ser cumpridos:
 
 Premiação:
 
+- Deve ser proximo ao Spawn Mundial
 - Um poder para cada integrante do reino
 - 100 Netherites
 - Exclusividade sobre as tartarugas e seus devirados

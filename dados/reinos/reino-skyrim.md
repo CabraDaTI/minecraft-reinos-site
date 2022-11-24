@@ -8,6 +8,7 @@ sidebar_position: 3
 
 - **Edson** - Lider
 - Flavio
+- Vitor
 
 #### Leis:
 

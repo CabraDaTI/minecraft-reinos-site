@@ -9,4 +9,4 @@ sistema de estações, atualmente há apenas duas estações:
 
 - Normal - mundo funciona normalmente como está acostumado.
 
-- Inverno - nenhum animal nasce (exceto lulas), nenhum plantação cresce.
+- Inverno - nenhum animal nasce (exceto lulas), nenhuma plantação cresce.

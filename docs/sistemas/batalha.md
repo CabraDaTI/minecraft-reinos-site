@@ -10,3 +10,7 @@ O nosso sistema de batalha tem alguns buffs e nerfs:
   morte instantânea do alvo (apenas players).
 
 - Seu capacete tem uma pequena chance de cair.
+
+- Você pode acertar um nocaute, o dano é multiplicado por X.
+
+- Você pode derrubar um inimigo da montaria que ele está.

@@ -11,4 +11,4 @@ os jogadores que estão dentro do range lhe escutarão.
 
 - frases terminadas com "!" tem o alcance de 60 blocos.
 
-- frases terminadas com "..." tem o alcance de 10 blocos.
+- frases terminadas com "..." tem o alcance de 5 blocos.

@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # O Grande Mercado
 
-Responsável: **Ninguém**
+Responsável: Reino Skyrim
 
 Construa uma grande estrutura que servirá para negociações, ela deve servir para:
 

@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # O Conselho de Justiça
 
-Responsável: **Ninguém**
+Responsável: Reino Os Ovelhas
 
 Construa uma grande estrutura que servirá para julgamentos e anúncios.
 

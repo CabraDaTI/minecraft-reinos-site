@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # O Santuário das Tartarugas
 
-Responsável: **Ninguém**
+Responsável: Reino Andromeda
 
 Construa um grande santuário para as tartarugas.
 

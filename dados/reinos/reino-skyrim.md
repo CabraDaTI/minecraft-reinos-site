@@ -17,7 +17,7 @@ sidebar_position: 3
 
 #### Exclusividades:
 
-- Nenhuma
+- Fungo do Nether
 
 #### Objetivos:
 

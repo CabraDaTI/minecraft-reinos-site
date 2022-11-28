@@ -10,6 +10,7 @@ Construa um grande santuário para as tartarugas.
 
 Critérios que devem ser cumpridos:
 
+- Deve ser proximo ao Spawn Mundial
 - A estrutura deve mostrar grandiosidade unica, apesar do design ficar por conta do responsável.
 - Deve ser construida com materiais claros e bastante vidro.
 - Um grande reserva deve ser feita utilizando o mar.
@@ -17,7 +18,6 @@ Critérios que devem ser cumpridos:
 
 Premiação:
 
-- Deve ser proximo ao Spawn Mundial
 - Um poder para cada integrante do reino
 - 100 Netherites
 - Exclusividade sobre as tartarugas e seus devirados

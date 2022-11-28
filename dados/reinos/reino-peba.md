@@ -2,22 +2,20 @@
 sidebar_position: 1
 ---
 
-# Skyrim
+# Peba
 
 #### Integrantes
 
-- **Edson** - Lider
-- Flavio
-- Vitor
+- **Matheus** - Lider
 
 #### Leis:
 
-- Não é permitido entrar no reino sem permissão.
-- A punição para espiões é a morte.
+- a paz reinará sempre que forem respeitadas as delimitações
+  de terras e propriedades declaradas pelo Reino Peba.
 
 #### Exclusividades:
 
-- Fungo do Nether
+- Nenhuma
 
 #### Objetivos:
 

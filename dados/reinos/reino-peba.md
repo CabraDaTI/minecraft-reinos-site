@@ -6,12 +6,9 @@ sidebar_position: 1
 
 #### Integrantes
 
-- **Matheus** - Lider
+- **Matheus** (Brad) - Lider
 
 #### Leis:
-
-- a paz reinará sempre que forem respeitadas as delimitações
-  de terras e propriedades declaradas pelo Reino Peba.
 
 - Proibido a entrada de visitantes indesejados, aqueles que forem pegos bisbilhotando, serão tratados
   como inimigos do Reino Peba, e sofrerão as consequências, mais cedo ou mais tarde...

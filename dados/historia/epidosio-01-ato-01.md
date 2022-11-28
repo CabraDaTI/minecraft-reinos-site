@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Episodio 1 - Ato 01
+# Episodio 1 - Ato 01 ✅
 
 A Terra de Milo por muito tempo foi um local selvagem: florestas, campos e oceanos intocáveis.
 Um lugar onde a noite não surge monstros, tranquilo e sereno.

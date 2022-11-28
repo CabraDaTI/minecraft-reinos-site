@@ -28,12 +28,7 @@ geram recursos, nada, pura e absoluta seca.
 Lula Update torna a lula um ser incrivel, caçe uma e veja que talvez ela seja uma boa fonte de recursos
 em epocas sombrias.
 
-### Carneiro Magico - Um carneiro, porém magico (Em desenvolvimento)
-
-Um carneiro pode surgir, acima do solo, voando nas nuvens, brilhante, mate-o o mais rapido possível!
-O que virá depois será recompensador!
-
-### Batalha Melhorada - As batalhas serão mais emocionantes (Em desenvolvimento)
+### Batalha Melhorada - As batalhas serão mais emocionantes
 
 Alguns sistemas novos durante as batalhas: nocaute, derrubar inimigo de montarias com um golpe, etc.
 

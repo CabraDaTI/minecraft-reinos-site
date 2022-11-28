@@ -6,6 +6,11 @@ sidebar_position: 2
 
 Regras que devem ser seguidas
 
+#### Regras moldadas por players
+
+- É proibido o plantio e gestão do fungo do nether, exclusividade adquirida pelo reino Skyrim.
+- É proibido o plantio e gestão da batata, exclusividade adquirida pelo reino Ovelhas.
+
 #### Comportamento
 
 - Não é permitido ataques aleatorios, apenas com motivos, mesmo que esse motivo seja pq

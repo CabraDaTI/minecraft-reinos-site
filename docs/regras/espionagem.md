@@ -6,6 +6,7 @@ sidebar_position: 1
 
 A espionagem de terras alheias é permitida em todos os casos e alguns pontos devem ser seguidos:
 
+- Deverá ser realizada apenas quando jogadores do reino alvo estiverem online.
 - Espionagem é um ato defensivo, você não tem permissão de atacar ou saquear, seu foco deve ser a captura
   de informações.
 - Você não poderá atacar.

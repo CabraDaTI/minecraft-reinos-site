@@ -21,7 +21,7 @@ O nome "Ovelhas" ecoará por essas terras.
 
 - Aproximar das terras é considerado crime, apenas deve se aproximar quando for convidado.
 - Invasores serão mortos sem prévio aviso, seus itens não serão devolvidos e nada será negociado.
-- Espionagem é considerado crime de guerra. A declaração de guerra será feito no prazo máximo de 3 dias.
+- Espionagem é considerado crime de guerra. A declaração de guerra será feita no prazo máximo de 3 dias.
 
 #### Exclusividades:
 

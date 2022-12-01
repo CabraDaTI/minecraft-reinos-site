@@ -20,6 +20,7 @@ O nome "Ovelhas" ecoará por essas terras.
 #### Leis:
 
 - Aproximar das terras é considerado crime, apenas deve se aproximar quando for convidado.
+- Invasores serão mortos sem prévio aviso, seus itens não serão devolvidos e nada será negociado.
 - Qualquer negociação acorrerá nas terras alheias, não permitidos nada em nossas terras.
 
 #### Exclusividades:

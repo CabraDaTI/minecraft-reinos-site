@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# externos
+# Externos
 
 Estes plugins foram adicionados ao servidor para criar uma tematica ainda mais interessante no jogo:
 

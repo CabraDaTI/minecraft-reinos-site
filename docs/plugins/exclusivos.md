@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# exclusivos
+# Exclusivos
 
 Estes plugins foram criados exclusivamente para atender o servidor, caso tenha ideias ou
 recomendações, só avisar!
